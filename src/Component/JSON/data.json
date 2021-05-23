@@ -1,0 +1,89 @@
+[
+    {
+        "id": 0,
+        "name": "Shoes",
+        "img": "https://www.pngitem.com/pimgs/m/11-118999_white-fila-shoes-png-transparent-png.png",
+        "price": 45,
+        "description":"Ross-Simons jewelry arrives beautifully packaged in a gift box, ready to delight for any occasion, including birthdays, Christmas,Mother’s Day, anniversaries, Valentine’s Day, weddings, graduationsand much more! Due to the naturally occurring characteristics of diamonds, each is uniqueand may exhibit imperfections such as inclusions, blemishes and cloudiness, as well as color variations"
+    },
+    {
+        "id": 1,
+        "name": "Sneaker",
+        "img": "https://www.nicepng.com/png/detail/78-789516_nike-shoe-png-for-kids-nike-hyperdunk-2017.png",
+        "price": 8800,
+        "description":"Ross-Simons jewelry arrives beautifully packaged in a gift box, ready to delight for any occasion, including birthdays, Christmas,Mother’s Day, anniversaries, Valentine’s Day, weddings, graduationsand much more! Due to the naturally occurring characteristics of diamonds, each is uniqueand may exhibit imperfections such as inclusions, blemishes and cloudiness, as well as color variations"
+
+    },
+    {
+        "id": 2,
+        "name": "Sneaker",
+        "img": "https://www.pngkey.com/png/detail/249-2499887_adidas-kids-superstar-grade-school-casual-shoe-transparent.png",
+        "price": 8768,
+        "description":"Ross-Simons jewelry arrives beautifully packaged in a gift box, ready to delight for any occasion, including birthdays, Christmas,Mother’s Day, anniversaries, Valentine’s Day, weddings, graduationsand much more! Due to the naturally occurring characteristics of diamonds, each is uniqueand may exhibit imperfections such as inclusions, blemishes and cloudiness, as well as color variations"
+
+    },
+    {
+        "id": 3,
+        "name": "Service Shoes",
+        "img": "https://www.pngitem.com/pimgs/m/244-2441637_campus-shoes-png-transparent-png.png",
+        "price": 4978,
+        "description":"Ross-Simons jewelry arrives beautifully packaged in a gift box, ready to delight for any occasion, including birthdays, Christmas,Mother’s Day, anniversaries, Valentine’s Day, weddings, graduationsand much more! Due to the naturally occurring characteristics of diamonds, each is uniqueand may exhibit imperfections such as inclusions, blemishes and cloudiness, as well as color variations"
+
+    },
+    {
+        "id": 4,
+        "name": "Bata Shoes",
+        "img": "https://www.clipartkey.com/mpngs/m/174-1747370_nike-shoes-png-nike-shoes-png-hd.png",
+        "price": 9865,
+        "description":"Ross-Simons jewelry arrives beautifully packaged in a gift box, ready to delight for any occasion, including birthdays, Christmas,Mother’s Day, anniversaries, Valentine’s Day, weddings, graduationsand much more! Due to the naturally occurring characteristics of diamonds, each is uniqueand may exhibit imperfections such as inclusions, blemishes and cloudiness, as well as color variations"
+
+    },
+    {
+        "id": 5,
+        "name": "Sneaker",
+        "img": "https://i.pinimg.com/736x/b1/65/7f/b1657f680d185b50193166dfbdf9f424.jpg",
+        "price": 5388,
+        "description":"Ross-Simons jewelry arrives beautifully packaged in a gift box, ready to delight for any occasion, including birthdays, Christmas,Mother’s Day, anniversaries, Valentine’s Day, weddings, graduationsand much more! Due to the naturally occurring characteristics of diamonds, each is uniqueand may exhibit imperfections such as inclusions, blemishes and cloudiness, as well as color variations"
+
+    },
+    {
+        "id": 6,
+        "name": "Service Shoe",
+        "img": "https://www.clipartkey.com/mpngs/m/174-1747370_nike-shoes-png-nike-shoes-png-hd.png",
+        "price": 4508,
+        "description":"Ross-Simons jewelry arrives beautifully packaged in a gift box, ready to delight for any occasion, including birthdays, Christmas,Mother’s Day, anniversaries, Valentine’s Day, weddings, graduationsand much more! Due to the naturally occurring characteristics of diamonds, each is uniqueand may exhibit imperfections such as inclusions, blemishes and cloudiness, as well as color variations"
+
+    },
+    {
+        "id": 7,
+        "name": "Shoe",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq-l0J8F2u-qkSzLNsAKqVAqllrZSO3KYv3nmLAD3_Ovoa9ofFAyP_428VoJWSy4WZVAe0xSp-wNk&usqp=CAU",
+        "price": 4599,
+        "description":"Ross-Simons jewelry arrives beautifully packaged in a gift box, ready to delight for any occasion, including birthdays, Christmas,Mother’s Day, anniversaries, Valentine’s Day, weddings, graduationsand much more! Due to the naturally occurring characteristics of diamonds, each is uniqueand may exhibit imperfections such as inclusions, blemishes and cloudiness, as well as color variations"
+
+    },
+    {
+        "id": 8,
+        "name": "Sneakers",
+        "img": "https://www.nicepng.com/png/detail/475-4752962_nike-cortez-basic-leather-nike-cortez-basic-leather.png",
+        "price": 3345,
+        "description":"Ross-Simons jewelry arrives beautifully packaged in a gift box, ready to delight for any occasion, including birthdays, Christmas,Mother’s Day, anniversaries, Valentine’s Day, weddings, graduationsand much more! Due to the naturally occurring characteristics of diamonds, each is uniqueand may exhibit imperfections such as inclusions, blemishes and cloudiness, as well as color variations"
+        
+    },
+    {
+        "id": 9,
+        "name": "General Shoe",
+        "img": "https://www.nicepng.com/png/detail/78-789516_nike-shoe-png-for-kids-nike-hyperdunk-2017.png",
+        "price": 9987,
+        "description":"Ross-Simons jewelry arrives beautifully packaged in a gift box, ready to delight for any occasion, including birthdays, Christmas,Mother’s Day, anniversaries, Valentine’s Day, weddings, graduationsand much more! Due to the naturally occurring characteristics of diamonds, each is uniqueand may exhibit imperfections such as inclusions, blemishes and cloudiness, as well as color variations"
+
+    },
+    {
+        "id": 10,
+        "name": "Bata shoes",
+        "img": "https://www.pngkey.com/png/detail/249-2499887_adidas-kids-superstar-grade-school-casual-shoe-transparent.png",
+        "price": 9878,
+        "description":"Ross-Simons jewelry arrives beautifully packaged in a gift box, ready to delight for any occasion, including birthdays, Christmas,Mother’s Day, anniversaries, Valentine’s Day, weddings, graduationsand much more! Due to the naturally occurring characteristics of diamonds, each is uniqueand may exhibit imperfections such as inclusions, blemishes and cloudiness, as well as color variations"
+
+    }
+]
