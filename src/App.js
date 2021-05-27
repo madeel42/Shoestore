@@ -1,7 +1,13 @@
 import { Main } from './Component/Main/Main'
+import { GlobalProvider } from './Context/GlobalState'
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 function App() {
   return <div>
-    <Main />
+    <GlobalProvider>
+      <Main />
+      <ToastContainer />
+    </GlobalProvider>
   </div>
 
 }

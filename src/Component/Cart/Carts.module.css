@@ -18,13 +18,13 @@
 .IMGDIV{
     display: flex;
     height: 170px;
-    margin-right: 30px;
-    /* background: antiquewhite; */
+    margin-right: 4px;
 }
 .CARTIMG{
     width: 100%;
     object-fit: contain;
     padding: 3px;
+    background: #ffffffd6;
 }
 .OPERATORS{
     display: flex;
@@ -48,7 +48,7 @@
     width: 100%;
     display: flex;
     justify-content: center;
-
+    margin-bottom: 11px;
 }
 .BUTTON button{
     border: none;
